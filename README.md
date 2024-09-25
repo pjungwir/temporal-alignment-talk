@@ -5,6 +5,8 @@ These are the slides and my notes for a talk at [Papers We Love Portland](https:
 about the [*Temporal Aligment* paper](https://www.zora.uzh.ch/id/eprint/62963/1/p433-dignos.pdf).
 I gave the talk 25 September 2024.
 
+You can <a href="https://illuminatedcomputing.com/pages/pwlpdx2024-temporal-alignment/">view the slides</a> on my website.
+
 The slides are built on [reveal.js](https://github.com/hakimel/reveal.js/).
 
 You also can get [all the slides as a PDF](slides.pdf),
